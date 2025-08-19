@@ -6,7 +6,7 @@ This project is a full-stack application built with a complete **backend** and a
 - **Backend**
   - RESTful APIs with authentication & authorization
   - Secure user management (JWT, bcrypt, etc.)
-  - Database integration (MongoDB / PostgreSQL / MySQL – update as per your DB)
+  - Database integration (MongoDB)
   - Error handling & validation
 - **Dashboard**
   - Fully responsive UI
